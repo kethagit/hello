@@ -3,3 +3,4 @@ editing file
 hello friends
 line number4
 hdth
+line6
