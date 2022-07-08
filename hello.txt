@@ -2,3 +2,4 @@ Hello Artifactory and Sonar
 editing file
 hello friends
 line number4
+hdth
